@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="spacing_double">16dp</dimen>
+    <dimen name="image_height">240dp</dimen>
+    <dimen name="spacing_normal">8dp</dimen>
+    <dimen name="spacing_xxlarge">64dp</dimen>
+    <dimen name="spacing_fourth">32dp</dimen>
+    <dimen name="spacing_triple">24dp</dimen>
+    <dimen name="card_corner_radius">25dp</dimen>
+    <dimen name="bottom_layout_margin">20dp</dimen>
+    <dimen name="spacing_200">200dp</dimen>
+</resources>
